@@ -1,0 +1,119 @@
+Food
+
+35 Theresaur Food Stop
+36 Paleo Shreckwiches
+37 krystal Cook Café
+
+38 Shilobite o'Pizza
+
+39 Chensational Sweets
+53 Smoky Wood BBQ
+54 Ice Age Cones
+
+55 Plaisantly Popped Corn
+56 Floral Funnels
+
+5? Permafrosties
+
+58 Granite Slab Pizza
+59 EberTrex Fries
+
+Restrooms Shopping
+
+49 Raptor Restroom 40 Munzasaurus Souvenirs
+50 Tar Pit Stop 44 Laskonasaur Store
+
+51 LavaTory 42 World of WarRocks Shop
+52 Tricerastop 43 Whitley's Plushadactyl
+
+65 Darwin's Stop
+66 Tyrannosaurus Rest
+67 Fisching Rooms
+
+44 Staskosaurus Designs
+45 Dino Chic Clothing
+
+46 Petroglyph Body Art
+47 League of Legenodons
+Beer Gardens 48 The Magic Cavern
+
+33 Alvarez Beer Garden
+
+34 Mary Anning Beer Garden
+
+Thrill Rides
+
+‘1 Wrightiraptor Mountain
+2 Galactosaurus Rage
+
+3 Awvilotops Express
+
+4 TerrorSaur
+
+5 Wendisaurus Chase
+
+6 Keimosaurus Big Spin
+
+7 Firefall
+
+8 Atmosfear
+
+81 Flight of the Swingodon
+
+Kiddie Rides
+
+9 North Line
+
+10 Jeredactyl Jump
+
+11 Sauroma Bumpers
+12 Flying Tyrandrienkos
+13 Cyndisaurus Asteroid
+14 Beelzebufo
+
+15 Enchanted Toadstoals
+16 Stegocycles
+
+17 Blue Iguanodon
+
+48 Wild Jungte Cruise
+49 Stone Cups
+
+Rides for Everyone
+
+20 Scholtz Express
+
+21 Paleocarrie Carousel
+
+22 Jurassic Road
+
+23 Rhynasaurus Rampage
+
+24 Kauf's Lost Canyon Escape
+
+25 Maiasaur Madness,
+
+26 Kristanodon Kaper
+
+27 Squidosaur
+
+28 Eberlesaurus Roundup
+
+29 Dykesadactyl Thrill
+
+4p 30 Ichthyoroberts Rapids
+31 Raptor Race
+
+%
+a7
+
+‘Shows & Entertainment.
+32 Creighton Pavilion
+
+63 Grinosaurus Stage
+64 SabreTooth Theatre
+61 Primal Carnage Arcade
+
+Information & Assistance
+60 Daily Slab Maps and Info
+62 Liggement Fix-Me-Up
